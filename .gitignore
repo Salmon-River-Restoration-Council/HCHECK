@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+env/
+*.env
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Operating Systems
+.DS_Store
+Thumbs.db
+
+# Project specific
+processed_hobo_excels/
+processed_hobo_excels_headerless/
