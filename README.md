@@ -51,7 +51,7 @@ Note: If you encounter any issues, please ensure that you have the latest versio
 
 ### Nix Users (Linux, Windows WSL, MacOS)
 
-This project includes a Nix flake for easy development and execution in Nix environments.
+This project includes a Nix flake for easy development and execution in Nix environments. For more information about Nix and how to use it, please refer to the [official Nix documentation](https://nixos.org/manual/nix/stable/).
 
 1. Ensure you have Nix installed with flakes enabled.
 2. To enter a development shell:
