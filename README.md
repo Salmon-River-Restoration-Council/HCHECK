@@ -19,7 +19,7 @@ This tool processes HOBOWare exported CSV files containing temperature data to d
 - pandas
 - openpyxl
 
-## Installation
+## Installation and Usage
 
 ### Linux Users
 
