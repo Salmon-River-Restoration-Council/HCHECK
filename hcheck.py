@@ -5,6 +5,8 @@ import os
 import pandas as pd
 import openpyxl
 
+__version__ = '0.5.15'
+
 # Create a QApplication instance for the GUI elements
 app = QApplication([])
 

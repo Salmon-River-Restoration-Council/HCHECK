@@ -1,5 +1,7 @@
 # HCHECK HOBO Temperature Anomaly Flagger
 
+Version 0.5.15
+
 This tool processes HOBOWare exported CSV files containing temperature data to detect and flag anomalies using PyQt5 for the graphical user interface.
 
 ## Features
