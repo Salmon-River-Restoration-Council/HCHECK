@@ -25,7 +25,7 @@ This tool processes HOBOWare exported CSV files containing temperature data to d
 
 1. Clone this repository, or download the zip:
    ```
-   git clone https://github.com/yourusername/hcheck.git
+   git clone https://github.com/Salmon-River-Restoration-Council/HCHECK.git
    ```
 2. Install the required packages:
    ```
