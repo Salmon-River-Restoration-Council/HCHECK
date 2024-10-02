@@ -76,3 +76,11 @@ Note: The first time you run these commands, Nix will download and build all dep
 - [ ] Package into executables for windows and macos
 - [ ] Update to Qt6
 
+## Disclaimer
+
+This software is intended for internal use by the Salmon River Restoration Council and is provided "as is" without warranty of any kind, express or implied. The authors and contributors of this project make no representations or warranties of any kind concerning the software, including no warranty of merchantability or fitness for a particular purpose.
+
+Users of this software do so at their own risk. In no event shall the authors, contributors, or the Salmon River Restoration Council be liable for any claim, damages, or other liability arising from the use of the software.
+
+While we strive for accuracy and reliability, users should always verify results and use their best judgment when interpreting data processed by this tool.
+
